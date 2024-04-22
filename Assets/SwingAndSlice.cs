@@ -5,7 +5,7 @@ using EzySlice;
 using UnityEngine.InputSystem;
 
 
-public class SliceObject : MonoBehaviour
+public class SwingAndSlice : MonoBehaviour
 {
     public Transform startSlicePoint;
     public Transform endSlicePoint;
